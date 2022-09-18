@@ -678,7 +678,6 @@ img {
 .overlay {
   position: absolute;
   top: 0;
-  opacity left: 0;
 
   transform: translateY(100%);
   transition: transform 400ms;
